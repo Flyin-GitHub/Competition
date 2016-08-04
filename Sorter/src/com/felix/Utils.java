@@ -2,7 +2,7 @@ package com.felix;
 
 /**
  * this class provide some useful util.
- * the main function is provide the byte opterator
+ * main function is provide the byte opterator
  * @author Felix
  * 
  */
