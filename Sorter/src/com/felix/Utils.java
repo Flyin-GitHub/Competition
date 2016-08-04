@@ -2,8 +2,6 @@ package com.felix;
 
 /**
  * this class provide some useful util.
- * the  function is provide the byte opterator
- * @author Felix
  * 
  */
 public class Utils {
